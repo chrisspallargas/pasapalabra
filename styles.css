@@ -1,0 +1,63 @@
+body{
+	background-color: #ccd9ff;
+	text-align:center;
+}
+
+h1{
+	color:#0000cc;
+	text-decoration: underline;
+	margin: 0 auto;
+}
+
+#bolitas{
+	margin:15px auto;
+}
+
+.letra{
+	border-style: solid;
+	border-color:#0000cc;
+	border-radius: 50%;
+	color: #0000cc;
+	height: 20px;
+	width: 20px;
+	padding:5px;
+	margin: 20px;
+}
+
+
+#pregunta{
+	font-size: 20px;
+	color: #0000cc;
+}
+
+#contador{
+	font-size: 15px;
+	color: #0000cc;
+}
+
+#placeholder{
+	border-style: solid;
+	border-color:pink;
+	margin: 20px auto;
+}
+.botonChris{
+	border-style:solid;
+	border-color: pink;
+	font-weight: bold;
+	height: 40px;
+	width: 80px;
+	margin: 0 auto;
+	margin-top: 25px;
+	padding-top: 10px;
+}
+
+a{
+	color:#0000cc;
+	text-decoration: none;
+}
+
+.botonChris:hover{
+	background-color: white;
+	font-weight: bold;
+
+}
